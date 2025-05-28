@@ -1,0 +1,5 @@
+EquationLength,EquationStructure,EquationLambda,EquationParameters,NumericalIterations,MSE,R2
+1,xdata[3],"lambda x,xdata:xdata[3]",,,3.073437906479676,0.8529255204992303
+3,"Div(xdata[3],x[0])","lambda x,xdata:Div(xdata[3],x[0])",[1.07940488],15.0,2.960431850875381,0.8583332454359848
+5,"Sub(Div(xdata[1],x[0]),xdata[2])","lambda x,xdata:Sub(Div(xdata[1],x[0]),xdata[2])",[0.5297067],13.0,2.2468831821897224,0.8924789813313341
+7,"Add(Mul(xdata[2],x[0]),Mul(xdata[1],x[1]))","lambda x,xdata:Add(Mul(xdata[2],x[0]),Mul(xdata[1],x[1]))",[-0.96605587  1.85484513],54.0,2.2455224977307715,0.8925440947205271
