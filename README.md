@@ -8,7 +8,7 @@ The main results are suffficiently small and are made available in i) the paper,
 
 ## Citation
 
-If you use **SRParetoFronts** in your work, please cite:
+If you use these assets in your work, please cite:
 
 ```bibtex
 @inproceedings{fongpareto,
